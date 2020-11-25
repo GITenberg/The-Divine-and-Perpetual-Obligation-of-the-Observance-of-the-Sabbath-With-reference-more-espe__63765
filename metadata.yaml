@@ -1,11 +1,16 @@
 _repo: The-Divine-and-Perpetual-Obligation-of-the-Observance-of-the-Sabbath-With-reference-more-espe__63765
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63765-h/images/cover.jpg
 creator:
   author:
     agent_name: Perowne, John
     gutenberg_agent_id: '52587'
     url: http://www.gutenberg.org/2009/agents/52587
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63765#The-Divine-and-Perpetual-Obligation-of-the-Observance-of-the-Sabbath-With-reference-more-espe_
 gutenberg_issued: '2020-11-14'
 gutenberg_type: Text
 identifiers:
